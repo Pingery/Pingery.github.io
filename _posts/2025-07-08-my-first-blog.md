@@ -13,4 +13,4 @@ I am a rising senior and this is my first blog on GitHub!
 3. In the process of learning guitar
 4. In the process of learning German
 
-!My Hometown: ![B3878E37-6149-4636-BC83-0A54D55F3CAA](https://github.com/user-attachments/assets/c54485fa-e8dd-40db-8ea0-16cdc51d2254)
+**My Hometown:** ![B3878E37-6149-4636-BC83-0A54D55F3CAA](https://github.com/user-attachments/assets/c54485fa-e8dd-40db-8ea0-16cdc51d2254)
