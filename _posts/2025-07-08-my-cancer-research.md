@@ -8,3 +8,4 @@
 
 **An Image Showing Where Skin Cancer Develops:**
 ![where-skin-cancer-develops](https://github.com/user-attachments/assets/aa6dd2b6-cfa7-4827-9d1a-4e2a349299dc)
+Credit: https://www.mayoclinic.org/diseases-conditions/basal-cell-carcinoma/symptoms-causes/syc-20354187
