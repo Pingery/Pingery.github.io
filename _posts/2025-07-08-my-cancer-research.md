@@ -6,4 +6,5 @@
   Continuing, skin cancer has five different stages. Stage zero entails that the cancer cells are only on the surface of the skin, which makes treatment rather easy. Each following phase entails that the cancer cells are deeper and deeper into the skin, until stage four, which states that the cancer cells have spread to other organs around the body. Luckily, there is treatment for skin cancer, with surgery being an option along with radiation therapy and chemotherapy. These treatments damage the cancer cells and prevents them from spreading and dividing. With these treatments, patients still typically have a lot more life to live as it has been observed that 98% of patients who have skin cancer still end up living for more than 5 years, and 85% of patients living for more than 10 years (Cancer Research UK). 
   In conclusion, skin cancer is an extreme problem that people should be aware about, but it shouldn't be something that should be completely feared as modern day technology will only make it easier to attack these cancer cells.
 
-!https://assets.mayoclinic.org/content/dam/media/global/images/2023/02/10/basal-cell-carcinoma-on-white-skin.jpg 
+**An Image Showing Where Skin Cancer Develops:**
+![where-skin-cancer-develops](https://github.com/user-attachments/assets/aa6dd2b6-cfa7-4827-9d1a-4e2a349299dc)
