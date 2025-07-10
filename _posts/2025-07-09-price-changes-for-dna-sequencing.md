@@ -5,4 +5,4 @@
   Following 2011, technology improved even more, and after another decade (2021), the price dropped to only $0.01 per mega-basepair. This allowed for thousands of mega-basepairs of chromosomes to be sequenced with only tens of dollars. 
   I think that these advancements in technology are extremely significant for humanity as it allows for scientists to further understand how DNA is able to structure the human genome.
 
-[This is my first scrip](https://github.com/Pingery/AISummerClass/blob/main/firstJupyterNotebook.html)
+[This is my first script](https://github.com/Pingery/AISummerClass/blob/main/firstJupyterNotebook.html)
