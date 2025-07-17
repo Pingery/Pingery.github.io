@@ -8,5 +8,5 @@ These were two of the classification models that I graphed today. It also displa
 <img width="615" height="551" alt="Screenshot 2025-07-17 at 3 25 33 PM" src="https://github.com/user-attachments/assets/836d5e0f-0345-4efa-aa5e-69db8d6d65d3" />
 <img width="637" height="539" alt="Screenshot 2025-07-17 at 3 26 28 PM" src="https://github.com/user-attachments/assets/14d406fc-76e1-40bb-8b34-4004941252fe" />
 
-Here is my Jupyter Notebook for today[(https://github.com/Pingery/Pingery.github.io/blob/main/machineLearning.html)]
+[Here is my Jupyter Notebook for today](https://github.com/Pingery/Pingery.github.io/blob/main/machineLearning.html)
 
