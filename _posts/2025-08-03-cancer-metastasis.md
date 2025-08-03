@@ -1,4 +1,4 @@
-# General Cancer Metastasis Notes
+# Liquid Biopsy for Cancer Metastasis Detections
 
 ## What is cancer metastasis?
 - Cancer cells spread from the primary tumor site to form new tumors in distant organs or tissues.
@@ -55,6 +55,40 @@
 - Frequently used for clinical trials to observe treatments effectiveness
 - Survival curve is generated (non-parametric) by observing "events (i.e deaths) at time intervals
 - Tou need to follow up patients and know their survival time
+
+## Liquid biopsy
+- A liquid biopsy is a test done on a sample of blood (or sometimes other fluids like uring or cerebrospinal fluid) to detech diseases (for example cancer metastasis)
+- CellSearch system is one kind of liquid biopsy technology
+- There are other technology platforms developed
+
+## Why Liquid Biopsy in Metastasis?
+- Metastatic tumors are often hard to reach
+- Metastatic burden is dynamic, and liquid biopsy allows repeated sampling over time.
+- It provides a non-invasive snapshot of the tumor evolution, heterogeneity, and treatment resistance.
+
+## What can Liquid Biopsy Detect?
+- CTCs
+- ctDNA
+- cfRNA
+- Exosomes / EVS
+- Tumor-Educated Platelets
+
+## Parsotix versus CellSearch
+- CellSearch capture CTCs via anti-EpCAM. This is a major limitation. Some cancer types do not have EpCAM expression.
+- Parsortix use microfluidic and cell deformability.
+  - Tumor cells are larver and less deformable than blood cells
+
+## ctDNA
+- Circulating tumor DNA: fragments from DNA released by tumor into blookd stream
+- The company focused on developing detection of ctDNA Guardant Health
+- Guardant Health was co-founded by Helmy Eltoukhy and AmirAli Talasaz during 2012-2013; both got Ph.D from Stanford
+
+## Future of Liquid Biopsy
+- Transforming cancer detection and monitoring
+- From late detection to early detection
+- Real-time monitoring of tumor evolution
+- Non-invasive and broadly accessible
+- Integration with Big Data: Enabling precision Medicine
 
 # Kaplan-Meier Plots Created in Jupyter Notebook
 <img width="891" height="602" alt="Screenshot 2025-08-03 at 3 13 13 PM" src="https://github.com/user-attachments/assets/64af8ebd-589d-4c35-a98d-dbb2c5efdc03" />
